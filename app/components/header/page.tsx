@@ -5,7 +5,7 @@ const Header = () => {
     <nav className='bg-red-800 shadow-lg'>
       <div className='container max-auto'>
         <div className='sm:flex justify-around'>
-          <a href="#" className='text-white text-3xl font-bold p-3 '> Muhammad's Assighment</a>
+          <a href="#" className='text-white text-3xl font-bold p-3 '> Muhammad Assighment</a>
           <ul className='text-gray-400 sm:self-center text-xl border-t sm:border-none'>
 
             <li className='sm:inline-block'>
